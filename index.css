@@ -1,0 +1,26 @@
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.bulb{
+height: 50px;
+  width: 100px;
+  background: #f20707;
+}
+.bulbb{
+  height: 50px;
+  width: 100px;
+  background: #0ae506;
+}
+
+.bulbbb{
+  height: 50px;
+  width: 100px;
+  background: #0615e5;
+}
+#bulb{
+  border-radius:50px;
+  
+}
