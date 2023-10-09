@@ -14,7 +14,7 @@ btn1.addEventListener('click',b);
 make a websites which shave bookmarks with event listener
 
 let c= document.getElementById('google')
-let d= document.getElementById('fb')
+let d= document.getElementById('facebook')
 let e= document.getElementById('insta')
 
 let x=function(e){
